@@ -5,8 +5,8 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 const spaceGrotesk = Space_Grotesk({ subsets: ['latin'], variable: '--font-heading' });
 
 export const metadata = {
-  title: 'FMC | Portfolio',
-  description: 'Portofolio Developer Muda - Node.js, JavaScript, HTML',
+  title: 'FMC | Portfolio Developer Muda',
+  description: 'Portofolio resmi FMC - Spesialis Node.js, JavaScript, HTML',
 };
 
 export default function RootLayout({ children }) {
