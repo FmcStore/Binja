@@ -1,3 +1,4 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
     "./app/**/*.{js,ts,jsx,tsx}",
@@ -9,7 +10,7 @@ module.exports = {
         heading: ['"Space Grotesk"', 'sans-serif'],
       },
       colors: {
-        accent: '#6366f1', // indigo-500
+        accent: '#7e22ce', // purple-800 → kesan mewah
         dark: '#0f172a',
         light: '#f8fafc'
       },
